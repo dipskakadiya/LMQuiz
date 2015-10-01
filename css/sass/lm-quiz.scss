@@ -1,0 +1,20 @@
+.quiz-wrapper{
+    .quiz-answers-wrapper{
+        list-style: none;
+        padding: 0px;
+        li {
+            display:inline-block;
+            margin-right: 15px;
+        }
+    }
+}
+
+.quiz-result-wrapper{
+    .quiz-result-mail{
+        display: inline-block;
+    }
+
+    .quiz-submit-action{
+        display: inline-block;
+    }
+}
